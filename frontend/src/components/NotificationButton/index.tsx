@@ -5,8 +5,7 @@ type Props = {
     saleId: number;
 }
 
-
-function NotificationButton( {saleId} : Props ) {
+function NotificationButton( ) {
     return(
         <div className="dsmeta-red-btn" >
             <img src={icon} alt="Notificar" />
