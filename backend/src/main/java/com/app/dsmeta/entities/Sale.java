@@ -70,10 +70,5 @@ public class Sale {
 	public void setDate(LocalDate date) {
 		this.date = date;
 	}
-<<<<<<< HEAD
 }
 
-=======
-
-}
->>>>>>> e1939efacb27760cb687af5f8cbd14ac2fe643ed
